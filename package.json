@@ -2,7 +2,7 @@
   "name": "enigma-machine",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jaycossey.github.io/enigma/",
+  "homepage": "https://juhuyoon.github.io/tester12/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
